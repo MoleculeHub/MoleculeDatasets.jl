@@ -23,7 +23,7 @@ data = get_mol_dataset("esol")
 
 ## Available Datasets
 
-See [dataset_info.jl](https://github.com/MoleculeHub/MoleculeDatasets/blob/main/src/dataset_info.jl)
+See [dataset_info.jl](https://github.com/MoleculeHub/MoleculeDatasets.jl/blob/main/src/dataset_info.jl)
 
 ## Adding a Dataset
 
